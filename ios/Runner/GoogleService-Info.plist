@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>645398008589-7b2jfatsds8qijgtd8uk81cb8ef6qvcu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.645398008589-7b2jfatsds8qijgtd8uk81cb8ef6qvcu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB_lQ_kLEV3Waknt7kl5S7EyIPRA6HznRA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>645398008589</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.khoatransoftware.continuousTrackingApp</string>
+	<key>PROJECT_ID</key>
+	<string>live-sharing-location-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>live-sharing-location-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:645398008589:ios:5cf6b3cd7ea54aeca6d644</string>
+	<key>DATABASE_URL</key>
+	<string>https://live-sharing-location-app-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

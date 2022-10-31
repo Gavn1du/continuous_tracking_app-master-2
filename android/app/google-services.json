@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "645398008589",
+    "firebase_url": "https://live-sharing-location-app-default-rtdb.firebaseio.com",
+    "project_id": "live-sharing-location-app",
+    "storage_bucket": "live-sharing-location-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645398008589:android:176740773a921a70a6d644",
+        "android_client_info": {
+          "package_name": "com.khoatransoftware.continuous_tracking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645398008589-90t5r8a2p6t0j9oafc5oifurul6c896p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCltiEG2oXmqm5Wvo28rBT8jo2nI5VVpmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645398008589-90t5r8a2p6t0j9oafc5oifurul6c896p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
